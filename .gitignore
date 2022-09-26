@@ -1,0 +1,9 @@
+#
+# This is the .gitignore file
+#
+
+__pycache__/
+
+design.txt
+
+files/
